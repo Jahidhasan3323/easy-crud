@@ -1,0 +1,30 @@
+{
+    "name": "jahid/laravel-easy-crud",
+    "description": "perform laravel crud operation using just a simple command",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jahid\\LaravelEasyCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jahid"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "EasyCrud\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "EasyCrud\\EasyCrudServiceProvider"
+            ]
+        }
+    }
+}
