@@ -275,6 +275,7 @@ class MakeCrudCommand extends Command
         return $this->$varName != "Request" ? "use App\Http\Requests\\".$subPath.($subPath ? '\\' : '').$type.$this->moduleClassName."Request;" : '';
     }
 
+    
     /**
      * @param $type
      * @return string
