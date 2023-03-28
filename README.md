@@ -1,8 +1,10 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<h1 align="center">Easy CRUD 🙂</h1>
 
 <p align="center">
+<a href="https://packagist.org/packages/jahid/laravel-easy-crud"><img src="https://img.shields.io/packagist/v/jahid/laravel-easy-crud" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/jahid/laravel-easy-crud"><img src="https://img.shields.io/packagist/dt/jahid/laravel-easy-crud" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/jahid/laravel-easy-crud" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/jahid/laravel-easy-crud"><img src="https://img.shields.io/github/stars/jahidhasan3323/easy-crud" alt="Stars"></a>
+<a href="https://packagist.org/packages/jahid/laravel-easy-crud"><img src="https://img.shields.io/github/forks/jahidhasan3323/easy-crud" alt="Forks"></a>
 <a href="https://packagist.org/packages/jahid/laravel-easy-crud"><img src="https://img.shields.io/packagist/l/jahid/laravel-easy-crud" alt="License"></a>
 </p>
 
